@@ -1,0 +1,12 @@
+{
+    "name": "dfkimera/phpconf17-collections",
+    "authors": [
+        {
+            "name": "Aryel Tupinamba",
+            "email": "aryel.tupinamba@lqdi.net"
+        }
+    ],
+    "require": {
+        "illuminate/support": "^5.5"
+    }
+}
